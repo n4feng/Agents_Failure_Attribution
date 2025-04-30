@@ -42,7 +42,7 @@
         }
     ],
     "mistake_agent": "Culinary_Expert",
-    "mistake_step": 3,
+    "mistake_step": "3",
     "mistake_reason": "The Culinary_Expert incorrectly included 'salt' as an ingredient and misinterpreted 'fresh strawberries' as 'ripe strawberries' from the transcription.",
     "labels": "Factual_Error",
     "system_prompt": {

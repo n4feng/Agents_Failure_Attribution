@@ -42,7 +42,7 @@
         }
     ],
     "mistake_agent": "Data_Collection_Expert",
-    "mistake_step": 1,
+    "mistake_step": "1",
     "mistake_reason": "The data provided by the Data_Collection_Expert for the reference works in Life Science and Health Sciences is incorrect or hypothetical, leading to an incorrect calculation of standard deviations and their difference.",
     "system_prompt": {
         "Data_Collection_Expert": "## Your role\nData_Collection_Expert specializes in gathering, organizing, and managing large datasets from various sources to support data-driven decision-making.\n\n## Task and skill instructions\n- Task description: The primary task of the Data_Collection_Expert is to efficiently and accurately collect data from diverse sources such as surveys, databases, web scraping, APIs, and other digital platforms. This involves designing and executing data collection strategies, ensuring data accuracy and completeness, and preparing the data for analysis.\n- Skill description: The Data_Collection_Expert possesses advanced skills in data management, statistical analysis, database querying, and programming languages such as Python, R, or SQL. They are also adept at using data collection tools and software, ensuring compliance with data privacy regulations, and maintaining meticulous records of collected data.\n- (Optional) Other information: The Data_Collection_Expert collaborates closely with data analysts, data scientists, and other stakeholders to understand the data requirements and provide robust datasets that drive meaningful insights and strategies. They are committed to continuous learning and staying updated with emerging data collection techniques and technologies.",
