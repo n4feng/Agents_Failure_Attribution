@@ -1,4 +1,4 @@
-# Which Agent auses Task Failures and When? On Automated Failure Attribution of LLM Multi-Agent Systems
+# Which Agent Causes Task Failures and When? On Automated Failure Attribution of LLM Multi-Agent Systems
 
 <div align="center">
     <p align="center">
