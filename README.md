@@ -3,7 +3,7 @@
 <div align="center">
     <p align="center">
          <a href="https://huggingface.co/datasets/Kevin355/Who_and_When"><b>🤗 Dataset</b></a> | 
-        <a href="https://github.com/mingyin1/Agents_Failure_Attribution/paper.pdf"><b>📑 Paper</b></a> 
+        <a href="https://github.com/mingyin1/Agents_Failure_Attribution/blob/main/paper.pdf"><b>📑 Paper</b></a> 
     </p>
 </div>
 <div align="center">
