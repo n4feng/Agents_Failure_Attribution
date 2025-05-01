@@ -30,7 +30,7 @@ Automated failure-attributions offers several key advantages:
 - **Enables intermediate feedback for agent self-improvement:** Pinpointing decisive errors provides actionable signals for agentic systems' self-correction or can serve as rewards in reinforcement learning.
 
 
-## Who&When: #1 Benchmark for MAS **automated failure attribution.**
+## 🔥 Who&When: #1 Benchmark for MAS **automated failure attribution.**
 
 - **184** annotated failure tasks collected from
   - **Algorithm-generated agentic systems** built using [CaptainAgent](https://docs.ag2.ai/latest/docs/use-cases/notebooks/notebooks/agentchat_captainagent/),
