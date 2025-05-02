@@ -121,7 +121,9 @@ python evaluate.py --data_path ../Who\&When/Algorithm-Generated --eval_file  out
 More results could be found in the paper.
 
 ## 📖 Reference
+If you find RAGEN useful, please consider citing our work:
 
+```md
 @misc{zhang2025which,
       title={Which Agent Causes Task Failures and When? On Automated Failure Attribution of LLM Multi-Agent Systems}, 
       author={Shaokun Zhang, Ming Yin, Jieyu Zhang, Jiale Liu, Zhiguang Han, Jingyang Zhang, Beibin Li, Chi Wang, Huazheng Wang, Yiran Chen, Qingyun Wu},
@@ -131,3 +133,4 @@ More results could be found in the paper.
       primaryClass={cs.MA},
       url={https://arxiv.org/abs/2505.00212}, 
 }
+```
