@@ -1,4 +1,4 @@
-# Which Agent Causes Task Failures and When? On Automated Failure Attribution of LLM Multi-Agent Systems (🔥 ICML 2025 Spotlight - Top 2.6%)
+# Which Agent Causes Task Failures and When? On Automated Failure Attribution of LLM Multi-Agent Systems (🔥🔥🔥 ICML 2025 Spotlight - Top 2.6%)
 
 <div align="center">
     <p align="center">
