@@ -124,11 +124,10 @@ More results could be found in the paper.
 If you find it useful, please consider citing our work:
 
 ```md
-@article{zhang2025which,
-      title={Which Agent Causes Task Failures and When? On Automated Failure Attribution of LLM Multi-Agent Systems}, 
-      author={Shaokun Zhang, Ming Yin, Jieyu Zhang, Jiale Liu, Zhiguang Han, Jingyang Zhang, Beibin Li, Chi Wang, Huazheng Wang, Yiran Chen, Qingyun Wu},
-      year={2025},
-      url={https://arxiv.org/abs/2505.00212}, 
-      journal={arXiv preprint arXiv:2505.00212},
+@article{zhang2025agent,
+  title={Which Agent Causes Task Failures and When? On Automated Failure Attribution of LLM Multi-Agent Systems},
+  author={Zhang, Shaokun and Yin, Ming and Zhang, Jieyu and Liu, Jiale and Han, Zhiguang and Zhang, Jingyang and Li, Beibin and Wang, Chi and Wang, Huazheng and Chen, Yiran and others},
+  journal={arXiv preprint arXiv:2505.00212},
+  year={2025}
 }
 ```
