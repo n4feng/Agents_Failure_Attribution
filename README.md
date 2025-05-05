@@ -13,7 +13,7 @@
 > [!IMPORTANT]
 > If you find this project helpful, please consider giving us a ⭐️! It motivates us to keep improving.
 
-This repository provides the implementation of ICML 2025 paper "Which Agent Causes Task Failures and When? On Automated Failure Attribution of LLM Multi-Agent Systems".
+This repository provides the implementation of ICML 2025 spotlight paper "Which Agent Causes Task Failures and When? On Automated Failure Attribution of LLM Multi-Agent Systems".
 
 ## 🧐 Overview
 
