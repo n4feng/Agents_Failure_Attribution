@@ -14,7 +14,7 @@
 > If you find this project helpful, please consider giving us a ⭐️! It motivates us to keep improving.
 
 > [!NEWS]
-> Our work has been covered by two well-known media outlets: [机器之心](https://mp.weixin.qq.com/s/etweZ18bWWVz7thglMdGXA) and [新智元]("https://mp.weixin.qq.com/s/dIhJj6Z6WmBAobM3Ay1YjQ").
+> Our work has been covered by two well-known media outlets: [机器之心](https://mp.weixin.qq.com/s/etweZ18bWWVz7thglMdGXA) and [新智元](https://mp.weixin.qq.com/s/dIhJj6Z6WmBAobM3Ay1YjQ).
 > We appreciate the media recognition!
 
 This repository provides the implementation of ICML 2025 spotlight paper "Which Agent Causes Task Failures and When? On Automated Failure Attribution of LLM Multi-Agent Systems".
