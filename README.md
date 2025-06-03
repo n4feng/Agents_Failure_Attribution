@@ -17,10 +17,9 @@
 
 
 ## 🚀 News
-> ![INFO]
-> Our work has been covered by two well-known media outlets: [Synced (机器之心)](https://mp.weixin.qq.com/s/etweZ18bWWVz7thglMdGXA) and [AIEra (新智元)](https://mp.weixin.qq.com/s/dIhJj6Z6WmBAobM3Ay1YjQ)!
+🔥 Our work has been covered by two well-known media outlets: [Synced (机器之心)](https://mp.weixin.qq.com/s/etweZ18bWWVz7thglMdGXA) and [AIEra (新智元)](https://mp.weixin.qq.com/s/dIhJj6Z6WmBAobM3Ay1YjQ)!
 
-> We appreciate the media recognition!
+Appreciate the media recognition!
 
 ## 🧐 Overview
 
@@ -37,7 +36,7 @@ Automated failure-attributions offers several key advantages:
 - **Enables intermediate feedback for agent self-improvement:** Pinpointing decisive errors provides actionable signals for agentic systems' self-correction or can serve as rewards in reinforcement learning.
 
 
-## 🔥 Who&When: #1 Benchmark for MAS **automated failure attribution.**
+## 🔧 Who&When: #1 Benchmark for MAS **automated failure attribution.**
 
 - **184** annotated failure tasks collected from
   - **Algorithm-generated agentic systems** built using [CaptainAgent](https://docs.ag2.ai/latest/docs/use-cases/notebooks/notebooks/agentchat_captainagent/),
