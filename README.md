@@ -1,5 +1,9 @@
 # Which Agent Causes Task Failures and When? On Automated Failure Attribution of LLM Multi-Agent Systems (🔥🔥🔥 ICML 2025 Spotlight - Top 2.6%)
 
+
+### 🚀 This work has been covered by two well-known media outlets: [Synced (机器之心)](https://mp.weixin.qq.com/s/etweZ18bWWVz7thglMdGXA) and [AIEra (新智元)](https://mp.weixin.qq.com/s/dIhJj6Z6WmBAobM3Ay1YjQ).
+
+
 <div align="center">
     <p align="center">
          <a href="https://huggingface.co/datasets/Kevin355/Who_and_When"><b>🤗 Dataset</b></a> | 
@@ -12,11 +16,6 @@
 
 > [!IMPORTANT]
 > If you find this project helpful, please consider giving us a ⭐️! It motivates us to keep improving.
-
-
-
-
-### 🚀 This work has been covered by two well-known media outlets: [Synced (机器之心)](https://mp.weixin.qq.com/s/etweZ18bWWVz7thglMdGXA) and [AIEra (新智元)](https://mp.weixin.qq.com/s/dIhJj6Z6WmBAobM3Ay1YjQ).
 
 
 ## 🧐 Overview
