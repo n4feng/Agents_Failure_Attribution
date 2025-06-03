@@ -18,9 +18,10 @@
 
 ## 🚀 News
 
-### 🔥 Our work has been covered by two well-known media outlets: [Synced (机器之心)](https://mp.weixin.qq.com/s/etweZ18bWWVz7thglMdGXA) and [AIEra (新智元)](https://mp.weixin.qq.com/s/dIhJj6Z6WmBAobM3Ay1YjQ)!
+### 🔥 Our work has been covered by two well-known media outlets: 
+### [Synced (机器之心)](https://mp.weixin.qq.com/s/etweZ18bWWVz7thglMdGXA) and [AIEra (新智元)](https://mp.weixin.qq.com/s/dIhJj6Z6WmBAobM3Ay1YjQ)!
 
-Appreciate the media recognition!
+### Appreciate the media recognition!
 
 
 ## 🧐 Overview
