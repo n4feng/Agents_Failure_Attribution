@@ -14,7 +14,7 @@
 > If you find this project helpful, please consider giving us a ⭐️! It motivates us to keep improving.
 
 
-This repository provides the implementation of ICML 2025 spotlight paper "Which Agent Causes Task Failures and When? On Automated Failure Attribution of LLM Multi-Agent Systems".
+
 
 ## 🚀 News
 Our work has been covered by two well-known media outlets: [Synced (机器之心)](https://mp.weixin.qq.com/s/etweZ18bWWVz7thglMdGXA) and [AIEra (新智元)](https://mp.weixin.qq.com/s/dIhJj6Z6WmBAobM3Ay1YjQ)!
@@ -27,7 +27,7 @@ We appreciate the media recognition!
     <img src="assets/overview.png" alt="overview" width="500">
 </div>
 
-This repository implements the paper "Which Agent Causes Task Failures and When?", which introduces the task of automated failure attribution in LLM-based multi-agent systems. Given a failed task, the goal failure attribution is to automatically identify the agent and step responsible for the failure.
+This repository provides the implementation of ICML 2025 spotlight paper "Which Agent Causes Task Failures and When?", which introduces the task of automated failure attribution in LLM-based multi-agent systems. Given a failed task, the goal failure attribution is to automatically identify the agent and step responsible for the failure.
 
 Automated failure-attributions offers several key advantages:
 
