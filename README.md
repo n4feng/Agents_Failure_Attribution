@@ -117,7 +117,8 @@ python evaluate.py --data_path ../Who\&When/Algorithm-Generated --eval_file  out
 More results could be found in the paper.
 
 ## 📖 Reference
-If you find it useful, please consider citing our work:
+> [!IMPORTANT]
+> If you find it useful, please consider citing our work:
 
 ```md
 @article{zhang2025agent,
