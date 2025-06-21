@@ -86,7 +86,7 @@
         }
     ],
 "question": "What is the highest rated (according to IMDB) Isabelle Adjani feature film that is less than 2 hours and is available on Vudu (now called Fandango at Home) to buy or rent?",
-"groundtruth": "Nosferatu the Vampyre",
+"ground_truth": "Nosferatu the Vampyre",
 "is_corrected": false,
 "question_ID":"52f7224e9c79431e7926afe317782711a0028750693e7456cde22ef6f4bd8bd5",
 "mistake_agent": "Orchestrator",

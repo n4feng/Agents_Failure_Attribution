@@ -86,7 +86,7 @@
         }
     ],
     "question": "How many slides in this PowerPoint presentation mention crustaceans?",
-    "groundtruth": "4",
+    "ground_truth": "4",
     "is_corrected": false,
     "mistake_agent": "Orchestrator",
     "mistake_step": "20",

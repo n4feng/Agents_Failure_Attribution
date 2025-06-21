@@ -130,7 +130,7 @@
         }
     ],
     "question": "On Cornell Law School website's legal information institute, under the fifth section of federal rules alphabetically, what word was deleted in the last amendment to the first rule in the article that has \"witnesses\" in the most titles as of 2021?",
-    "groundtruth": "inference",
+    "ground_truth": "inference",
     "is_corrected": false,
     "mistake_agent": "Orchestrator",
     "mistake_step": "29",

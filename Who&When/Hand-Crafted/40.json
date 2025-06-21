@@ -70,7 +70,7 @@
         }
     ],
     "question": "What's the smallest house (based on square footage) that has at least 2 beds and 2 baths and was sold in Prince Edward Island between June 1, 2022 and May 15 2024 according to Zillow?",
-    "groundtruth": "1148 sqft",
+    "ground_truth": "1148 sqft",
     "is_corrected": false,
     "question_ID":"6b06d186921b8b390c65aebd0d16f09f60a47d2f1288ebe36953f734e84c0a3c",
     "mistake_agent": "WebSurfer",

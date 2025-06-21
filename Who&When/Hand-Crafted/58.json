@@ -426,7 +426,7 @@
         }
     ],
     "question": "According to github, when was Regression added to the oldest closed numpy.polynomial issue that has the Regression label in MM/DD/YY?",
-    "groundtruth": "04/15/18",
+    "ground_truth": "04/15/18",
     "is_corrected": false,
     "mistake_agent": "Orchestrator",
     "mistake_step": "22",

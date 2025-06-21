@@ -366,7 +366,7 @@
         }
     ],
     "question": "What is the highest rated (according to IMDB) Daniel Craig movie that is less than 150 minutes and is available on Netflix (US)?",
-    "groundtruth": "Glass Onion: A Knives Out Mystery",
+    "ground_truth": "Glass Onion: A Knives Out Mystery",
     "is_corrected": false,
     "question_ID":"c7afe00869f98cf363fd83677ac41757ed5e57f03eacc3d1304feb0a92084bd1",
     "mistake_agent": "Orchestrator",

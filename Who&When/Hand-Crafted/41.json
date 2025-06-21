@@ -334,7 +334,7 @@
         }
     ],
     "question": "The Latin root of the Yola word \"gimlie\" shares a spelling with a Spanish word. What is the Google translation of the source title for the 1994 example sentence for that word in the Collins Spanish-to-English dictionary online? Answer in plain text, without punctuation.",
-    "groundtruth": "The World of the Twenty First Century",
+    "ground_truth": "The World of the Twenty First Century",
     "is_corrected": false,
     "mistake_agent": "WebSurfer",
     "mistake_step": "8",

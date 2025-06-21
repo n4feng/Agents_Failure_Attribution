@@ -34,7 +34,7 @@
         }
     ],
     "question": "What's the highest price a high-rise apartment was sold for in Mission Bay, San Francisco, in 2021?",
-    "groundtruth": "3080000",
+    "ground_truth": "3080000",
     "is_corrected": false,
     "question_ID":"e6bc98089608217e45b6956a46518fe3cce64a799b3ac43c6974c449ae14c408",
     "mistake_agent": "Orchestrator",

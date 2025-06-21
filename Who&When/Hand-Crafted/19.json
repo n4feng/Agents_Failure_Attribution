@@ -278,7 +278,7 @@
         }
     ],
     "question": "Which members of Fubo's Management Team joined the company during the same year Fubo's IPO happened?",
-    "groundtruth": "Gina DiGioia",
+    "ground_truth": "Gina DiGioia",
     "is_corrected": false,
     "question_ID":"6f224e7730ed027cbac73aebb1aea7f954053082041b02b19f4ff126a0a8a208",
     "mistake_agent": "Orchestrator",

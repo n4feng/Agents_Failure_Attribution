@@ -22,7 +22,7 @@
         }
     ],
     "question": "In the fictional language of Tizin, basic sentences are arranged with the Verb first, followed by the direct object, followed by the subject of the sentence. I want to express my love for apples to my Tizin friend.",
-    "groundtruth": "Maktay mato apple",
+    "ground_truth": "Maktay mato apple",
     "is_corrected": false,
     "mistake_agent": "Orchestrator",
     "mistake_step": "1",

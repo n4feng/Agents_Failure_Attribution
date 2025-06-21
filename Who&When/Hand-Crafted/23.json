@@ -298,7 +298,7 @@
         }
     ],
     "question": "What is the cheapest option to mail a DVD to Colombia from Hartford, Connecticut using FedEx, DHL, or USPS? (The answer should be a json object with the keys \"sender\" and \"price (usd)\")",
-    "groundtruth": "{\"sender\": \"USPS\", \"price (usd)\": \"41.75\"}",
+    "ground_truth": "{\"sender\": \"USPS\", \"price (usd)\": \"41.75\"}",
     "is_corrected": false,
     "question_ID":"9bdca8677af1e25cb7b0c7992dc62670c3e58e4afcd5ae60bcaa2483556bba00",
     "mistake_agent": "WebSurfer",

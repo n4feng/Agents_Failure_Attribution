@@ -82,7 +82,7 @@
         }
     ],
     "question": "According to Box Office Mojo's 2020 Worldwide Box Office list, how many of the top 10 highest-grossing worldwide movies are also on the top 10 highest-grossing domestic movies? Your answer should be a numerical integer value.",
-    "groundtruth": "6",
+    "ground_truth": "6",
     "is_corrected": false,
     "mistake_agent": "Assistant",
     "mistake_reason": "When listing the top 10 domestic movies, the assistant omitted 'Demon Slayer: Kimetsu no Yaiba - The Movie: Mugen Train' and included 'Wonder Woman 1984' instead. This led to an incorrect count of common movies between the two lists.",

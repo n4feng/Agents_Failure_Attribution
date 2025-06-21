@@ -70,7 +70,7 @@
         }
     ],
     "question": "What popular hiking trails to waterfalls in Yosemite National Park (more than 1,000 reviews on TripAdvisor) have been recommended to be fully accessible to wheelchairs by at least three different people and are highly rated (4.5/5 or more on average)?",
-    "groundtruth": "Yosemite Falls\nBridalveil Fall",
+    "ground_truth": "Yosemite Falls\nBridalveil Fall",
     "is_corrected": false,
     "question_ID":"f88066d274e265edd6cd9d61cd80a41accb3a14baf2297652fdd05cdf716d455",
     "mistake_agent": "WebSurfer",

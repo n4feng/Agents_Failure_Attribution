@@ -78,7 +78,7 @@
         }
     ],
     "question": "Who are the pitchers with the number before and after Taish\u014d Tamai's number as of July 2023? Give them to me in the form Pitcher Before, Pitcher After, use their last names only, in Roman characters.",
-    "groundtruth": "Yoshida, Uehara",
+    "ground_truth": "Yoshida, Uehara",
     "is_corrected": false,
     "mistake_agent": "WebSurfer",
     "mistake_reason": "The agent provides information about the current roster, but the question asks for the roster as of July 2023. THe agent should search for the roster of Hokkaido Nippon-Ham Fighters in 2023.",

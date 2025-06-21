@@ -198,7 +198,7 @@
         }
     ],
     "question": "What is the link to the GFF3 file for beluga whales that was the most recent one on 20/10/2020?",
-    "groundtruth": "https://ftp.ensembl.org/pub/release-101/gff3/delphinapterus_leucas/Delphinapterus_leucas.ASM228892v3.101.gff3.gz",
+    "ground_truth": "https://ftp.ensembl.org/pub/release-101/gff3/delphinapterus_leucas/Delphinapterus_leucas.ASM228892v3.101.gff3.gz",
     "is_corrected": false,
     "question_ID":"291b53e665b4dd4365cde995042db4a6f6fecef3fe3a6f4482f23d61bd673918",
 "mistake_agent": "Orchestrator",

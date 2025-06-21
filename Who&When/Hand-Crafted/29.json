@@ -54,7 +54,7 @@
         }
     ],
     "question": "According to the USGS, in what year was the American Alligator first found west of Texas (not including Texas)?",
-    "groundtruth": "1954",
+    "ground_truth": "1954",
     "is_corrected": false,
     "mistake_agent": "WebSurfer",
     "mistake_step": "12",

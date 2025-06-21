@@ -130,7 +130,7 @@
         }
     ],
     "question": "Which gyms (not including gymnastics centers) in West Virginia are within 5 miles (by car) of the Mothman Museum?",
-    "groundtruth": "The Root Sports & Fitness Center\nMuscle Headz Gym",
+    "ground_truth": "The Root Sports & Fitness Center\nMuscle Headz Gym",
     "is_corrected": false,
     "question_ID": "0ec4371851b96837b0a81b3dd3df401415061bb532fbafeb4609f3337c358508",
     "mistake_agent": "Orchestrator",

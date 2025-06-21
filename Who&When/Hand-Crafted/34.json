@@ -22,7 +22,7 @@
         }
     ],
     "question": "Which contributor to the version of OpenCV where support was added for the Mask-RCNN model has the same name as a former Chinese head of government when the names are transliterated to the Latin alphabet?",
-    "groundtruth": "Li Peng",
+    "ground_truth": "Li Peng",
     "is_corrected": false,
     "mistake_agent": "WebSurfer",
     "mistake_step": "8",

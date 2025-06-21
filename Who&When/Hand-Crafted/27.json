@@ -206,7 +206,7 @@
         }
     ],
     "question": "What was the volume in m^3 of the fish bag that was calculated in the University of Leicester paper \"Can Hiccup Supply Enough Fish to Maintain a Dragon\u2019s Diet?\"",
-    "groundtruth": "0.1777",
+    "ground_truth": "0.1777",
     "is_corrected": false,
     "mistake_agent": "WebSurfer",
     "mistake_step": "4",

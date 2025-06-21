@@ -130,7 +130,7 @@
         }
     ],
     "question": "Which bar is closest to Mummers Museum in Philadelphia and is wheel chair accessible?",
-    "groundtruth": "For Pete's Sake",
+    "ground_truth": "For Pete's Sake",
     "is_corrected": false,
     "question_ID":"557e78eceec08ca8b0da5f9fdaca6e1c7ec6140a8ce600983ee716327dab005e",
     "mistake_agent": "WebSurfer",

@@ -102,7 +102,7 @@
         }
     ],
     "question": "In the video https://www.youtube.com/watch?v=L1vXCYZAYYM, what is the highest number of bird species to be on camera simultaneously?",
-    "groundtruth": "3",
+    "ground_truth": "3",
     "is_corrected": false,
     "mistake_agent": "WebSurfer",
     "mistake_step": "8",

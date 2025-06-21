@@ -150,7 +150,7 @@
         }
     ],
     "question": "What is the closest eatery to Harkness Memorial State Park that is still open at 11pm on Wednesdays?",
-    "groundtruth": "McDonald's",
+    "ground_truth": "McDonald's",
     "is_corrected": false,
     "question_ID":"ccec2229ced20a4b0cb4897e3a99120a3017ea030903e01c9bda6b13d40b0b14",
     "mistake_agent": "WebSurfer",

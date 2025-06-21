@@ -346,7 +346,7 @@
         }
     ],
     "question": "What is the worst rated series (according to Rotten Tomatoes) with more than 1 season that Ted Danson has starred in and is available on Amazon Prime Video (US)?",
-    "groundtruth": "CSI: Cyber",
+    "ground_truth": "CSI: Cyber",
     "is_corrected": false,
     "question_ID":"55f4258484c5b398956133128a50462a767da211f8f72aa5ac5bbffb9bcbba1a",
     "mistake_agent": "WebSurfer",

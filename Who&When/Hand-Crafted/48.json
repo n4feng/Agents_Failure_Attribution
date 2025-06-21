@@ -22,7 +22,7 @@
         }
     ],
     "question": "Based on recent years (2020-2023), how likely am I to hit a rainy day (at least 0.5mm of precipitation) if I travel to Seattle during the first week of September? (provide the answer in percentage)",
-    "groundtruth": "14.2",
+    "ground_truth": "14.2",
     "is_corrected": false,
     "question_ID": "2aa5dd83fbcd0dce9a3dd4592106e5b5edf738008d932e357d477bba80e59ccf",
     "mistake_agent": "WebSurfer",

@@ -210,7 +210,7 @@
         }
     ],
     "question": "What are hikes in Yellowstone that have been recommended by at least three different people with kids and are highly rated on TripAdvisor (an average from 4.5/5 from at least 50 reviews)?",
-    "groundtruth": "Trout lake trail\nArtist Point\nFountain Paint Pot\nLone Star Geyser\nStorm Point Trail",
+    "ground_truth": "Trout lake trail\nArtist Point\nFountain Paint Pot\nLone Star Geyser\nStorm Point Trail",
     "is_corrected": false,
     "question_ID":"a9074997e698f912b9e751779ea19c1e92fa148404e90e0ae997acea3f9559b0",
     "mistake_agent": "Orchestrator",

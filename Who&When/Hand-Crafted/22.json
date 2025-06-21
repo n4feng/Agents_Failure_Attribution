@@ -98,7 +98,7 @@
         }
     ],
     "question": "In Emily Midkiff's June 2014 article in a journal named for the one of Hreidmar's sons that guarded his house, what word was quoted from two different authors in distaste for the nature of dragon depictions?",
-    "groundtruth": "fluffy",
+    "ground_truth": "fluffy",
     "is_corrected": false,
     "mistake_agent": "FileSurfer",
     "mistake_step": "4",

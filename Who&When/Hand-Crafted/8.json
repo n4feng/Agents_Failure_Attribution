@@ -518,7 +518,7 @@
         }
     ],
     "question": "Which of the people in the monday.com C-suite did not have a C-suite position during the company's IPO?",
-    "groundtruth": "Shiran Nawi, Yoni Osherov, Daniel Lereya",
+    "ground_truth": "Shiran Nawi, Yoni Osherov, Daniel Lereya",
     "is_corrected": false,
     "question_ID":"9e31099fffa6a3891c94934fd4fc2f3f522d51c1904ff3561f3a10e4bf245821",
     "mistake_agent": "WebSurfer",

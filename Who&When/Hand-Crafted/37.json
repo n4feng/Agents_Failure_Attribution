@@ -238,7 +238,7 @@
         }
     ],
     "question": "What is the maximum length in meters of #9 in the first National Geographic short on YouTube that was ever released according to the Monterey Bay Aquarium website? Just give the number.",
-    "groundtruth": "1.8",
+    "ground_truth": "1.8",
     "is_corrected": false,
     "mistake_agent": "WebSurfer",
     "mistake_step": "4",

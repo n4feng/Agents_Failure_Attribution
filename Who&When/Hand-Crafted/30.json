@@ -486,7 +486,7 @@
         }
     ],
     "question": "What's the lowest price a Single Family house was sold in Queen Anne in January 2023?",
-    "groundtruth": "1010000",
+    "ground_truth": "1010000",
     "is_corrected": false,
     "question_ID":"2ddae3b7a208e3c25f14d82d7a1faaaa1832fbf950b4dac345e755c4c361f294",
     "mistake_agent": "Assistant",

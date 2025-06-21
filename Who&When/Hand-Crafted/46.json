@@ -522,7 +522,7 @@
         }
     ],
     "question": "What time was the Tri-Rail train that carried the most passengers on May 27, 2019 scheduled to arrive in Pompano Beach? Express your answer in the 12-hour digital clock format without leading zero if any, and include whether it is AM or PM.",
-    "groundtruth": "6:41 PM",
+    "ground_truth": "6:41 PM",
     "is_corrected": false,
     "mistake_agent": "WebSurfer",
     "mistake_reason": "The search tool does not return the desired information regarding the passenger count of each train in 2019. Therefore, the train with the highest number of passengers and its scheduled arrival time at Pompano Beach cannot be determined.",

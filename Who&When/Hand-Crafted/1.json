@@ -118,7 +118,7 @@
         }
     ],
     "question": "Where can I take martial arts classes within a five-minute walk from the New York Stock Exchange after work (7-9 pm)?",
-    "groundtruth": "Renzo Gracie Jiu-Jitsu Wall Street",
+    "ground_truth": "Renzo Gracie Jiu-Jitsu Wall Street",
     "is_corrected": false,
     "question_ID":"6e3be83d1949fa52cba03fb1ce4b5b3bf7e37a83fd7d67694b10b2e439d90cf8",
     "mistake_agent": "WebSurfer",

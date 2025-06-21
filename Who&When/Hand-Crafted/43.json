@@ -66,7 +66,7 @@
         }
     ],
     "question": "As of May 2023, how many stops are between South Station and Windsor Gardens on MBTA\u2019s Franklin-Foxboro line (not included)?",
-    "groundtruth": "10",
+    "ground_truth": "10",
     "is_corrected": false,
     "mistake_agent": "Assistant",
     "mistake_step": "12",
