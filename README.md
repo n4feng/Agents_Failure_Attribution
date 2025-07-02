@@ -4,7 +4,7 @@
 [![Dataset](https://img.shields.io/badge/Dataset-HuggingFace-yellow?style=flat-square&logo=huggingface)](https://huggingface.co/datasets/Kevin355/Who_and_When)
 
 
-## This work has been covered by three well-known media outlets: 
+## 🏆 Media Coverage
 ### [[Synced (机器之心)](https://mp.weixin.qq.com/s/etweZ18bWWVz7thglMdGXA)]&nbsp;&nbsp;&nbsp;[[AIEra (新智元)](https://mp.weixin.qq.com/s/dIhJj6Z6WmBAobM3Ay1YjQ)]&nbsp;&nbsp;&nbsp;[[QbitAI (量子位)](https://mp.weixin.qq.com/s/6bmoyg2Pho28rYzgjdbFYA)]
 
 
