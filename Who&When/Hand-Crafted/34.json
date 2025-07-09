@@ -25,7 +25,7 @@
     "ground_truth": "Li Peng",
     "is_corrected": false,
     "mistake_agent": "WebSurfer",
-    "mistake_step": "8",
+    "mistake_step": "4",
     "mistake_reason": "WebSurfer returned general and unrelated information due to poorly refined queries and failed to identify the specific version of OpenCV where Mask-RCNN support was added. This failure caused subsequent steps to proceed based on incorrect or incomplete data, leading to the wrong final answer.",
     "question_ID": "56137764-b4e0-45b8-9c52-1866420c3df5",
     "level": 2
