@@ -119,6 +119,6 @@
     "question_ID": "72c06643-a2fa-4186-aa5c-9ec33ae9b445",
     "level": 3,
     "mistake_agent": "Assistant",
-    "mistake_step": "51",
+    "mistake_step": "24",
     "mistake_reason": "The assistant agent makes calculations with factual errors. The density of liquid Freon-12 under the required conditions is not provided. The calculation is based on an approximation of the density."
 }
