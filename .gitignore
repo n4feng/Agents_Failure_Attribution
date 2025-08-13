@@ -1,0 +1,5 @@
+OAI_CONFIG_LIST
+.venv/
+.vscode/settings.json
+*.pyc
+outputs/
